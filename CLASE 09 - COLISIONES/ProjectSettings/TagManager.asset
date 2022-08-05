@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Items
+  - Powerups
+  - Munitions
   layers:
   - Default
   - TransparentFX
@@ -35,8 +38,8 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
+  - Portals
+  - Enemies
   m_SortingLayers:
   - name: Default
     uniqueID: 0
